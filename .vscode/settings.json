@@ -10,5 +10,8 @@
   "github.copilot.chat.notebook.enabled": true,
   "github.copilot.chat.inlineChat.enabled": true,
   "editor.inlineSuggest.enabled": false,
-  "jupyter.notebookEditor.interactiveWindow.enabled": true
+  "jupyter.notebookEditor.interactiveWindow.enabled": true,
+  "python.analysis.extraPaths": [
+    "./IntermediatePython/my_api"
+  ]
 }
