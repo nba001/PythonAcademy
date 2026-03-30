@@ -1,0 +1,2 @@
+line_no,error,raw_line
+9,"Expecting ',' delimiter: line 1 column 92 (char 91)","{""event_id"":""e-9999"",""person_id"":1001,""event_type"":""login"",""event_ts"":""2025-02-08T08:00:00"""

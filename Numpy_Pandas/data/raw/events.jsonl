@@ -1,0 +1,9 @@
+{"event_id": "e-0001", "person_id": 1001, "event_type": "login", "event_ts": "2025-02-01T08:10:00", "source": "web"}
+{"event_id": "e-0002", "person_id": 1001, "event_type": "purchase", "event_ts": "2025-02-01T08:22:00", "source": "web", "amount_usd": 19.99}
+{"event_id": "e-0003", "person_id": 1002, "event_type": "login", "event_ts": "2025-02-03T12:00:00", "source": "mobile"}
+{"event_id": "e-0004", "person_id": 9999, "event_type": "login", "event_ts": "2025-02-03T12:05:00", "source": "web"}
+{"event_id": "e-0005", "person_id": 1003, "event_type": "purchase", "event_ts": "2025-02-05T17:45:00", "source": "mobile", "amount_usd": 120.0}
+{"event_id": "e-0006", "person_id": 1005, "event_type": "refund", "event_ts": "2025-02-06T09:20:00", "source": "web", "amount_usd": 120.0, "reason": "duplicate_charge"}
+{"event_id": "e-0007", "person_id": 1006, "event_type": "login", "event_ts": "2025-02-06T10:00:00", "source": "web", "campaign_id": "cmp-55"}
+{"event_id": "e-0008", "person_id": 1007, "event_ts": "2025-02-07T11:30:00", "source": "mobile"}
+{"event_id":"e-9999","person_id":1001,"event_type":"login","event_ts":"2025-02-08T08:00:00"

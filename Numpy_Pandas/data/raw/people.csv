@@ -1,0 +1,9 @@
+person_id,name,age,gender,city,email,signup_date,salary_usd
+1001,Alice,29.0,F,Oxfordshire,alice@example.com,2024-01-15,85000.0
+1002,Bob,83.0,M,Marshall,,2023-11-03,
+1003,Charlie,34.0,M,Kansas City,charlie@example.com,2024-02-10,95000.0
+1004,Bastian,12.0,M,De Forest,bastian@example.com,2024-07-01,
+1005,Ella,79.0,F,Newport News,ella@example.com,2022-06-20,72000.0
+1006,Jaco,35.0,M,Norristown,jaco@example.com,2024-04-05,110000.0
+1007,Ash,,M,Pallet Town,ash@example.com,2024-05-18,65000.0
+1010,Alice,30.0,F,Oxfordshire,alice2@example.com,2025-01-10,90000.0
